@@ -40,6 +40,3 @@ python predict.py
 
 ## Model Details
 The project uses a Random Forest Regressor to predict Bitcoin prices. The model takes into account various technical indicators and historical price data to make predictions for the next day's price.
-
-## Note
-This is a machine learning model for educational purposes. Cryptocurrency prices are highly volatile and influenced by many factors. The predictions should not be used as financial advice. 
